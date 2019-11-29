@@ -1,6 +1,5 @@
 body, html {
   margin: 0;
-  box-sizing: border-box;
 }
 img {
   width: 100vw;
@@ -8,6 +7,7 @@ img {
 #one {
   display: none;
   padding: 0px 100px;
+  box-sizing: border-box;
 }
 #two {
   position: absolute;
@@ -21,5 +21,5 @@ img {
   text-align: center;
   font-family: 'Quicksand';
   font-size: 60px;
-  padding: 10vw;
+  box-sizing: border-box;
 }
