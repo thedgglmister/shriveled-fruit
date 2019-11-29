@@ -4,7 +4,10 @@ body, html {
 img {
   width: 100vw;
 }
-div {
+#one {
+  display: none;
+}
+#two {
   position: absolute;
   top: 0;
   left:0;
