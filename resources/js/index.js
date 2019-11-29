@@ -1,5 +1,5 @@
 $(document).on('ready', function() {
   setTimeout(function() {
-    $('#one').fadeIn();
-  }, 1000);
+    $('#one').fadeIn(2000);
+  }, 2000);
 });
