@@ -1,5 +1,7 @@
 body, html {
   margin: 0;
+  background-color: #000;
+  color: #82A1B8;
 }
 img {
   width: 100vw;
