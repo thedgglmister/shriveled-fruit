@@ -1,5 +1,5 @@
 $(document).on('ready', function() {
-  setTimout(function() {
+  setTimeout(function() {
     $('#one').fadeIn();
   }, 1000);
 });
