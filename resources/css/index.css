@@ -25,3 +25,10 @@ img {
   box-sizing: border-box;
   padding: 0vw 10vw;
 }
+
+@media only screen and (max-width: 600px) {
+  #two {
+    font-size: 35px;
+    font-weight: 400;
+  }
+}
